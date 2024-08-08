@@ -1,1 +1,2 @@
-# webdevtrain
+# This is repository for a recipes website created while studying front end development following the odin project.
+By the end of this, I should know how to write a simple HTML page, with links, images and text.
