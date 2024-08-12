@@ -1,0 +1,54 @@
+* {
+    background-color: antiquewhite;
+}
+
+.head {
+    font-size: 34px;
+    font-family: 'Times New Roman', Times, serif;
+    color:brown;
+    background-color: aqua;
+}
+
+.head.shrimp {
+    font-size: 34px;
+    font-family: 'Times New Roman', Times, serif;
+    color:blueviolet;
+    background-color: yellow;
+}
+
+.head.lasagna {
+    font-size: 34px;
+    font-family: 'Times New Roman', Times, serif;
+    color:red;
+    background-color: yellow;
+}
+
+.desc-lasagna {
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    color:yellow;
+    background-color: red;
+}
+
+.head.sec {
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    color:orangered;
+    background-color: orchid;
+}
+
+#shrimp-ingredients{
+    color:black;
+}
+
+#shrimp-dir {
+    color: white;
+}
+
+ol {
+    color: red;
+}
+  
+ul {
+  color: orangered;
+}
