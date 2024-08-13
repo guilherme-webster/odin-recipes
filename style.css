@@ -1,10 +1,10 @@
 * {
     background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .head {
     font-size: 34px;
-    font-family: 'Times New Roman', Times, serif;
     color:red;
     outline: black auto;
     text-align: center;
